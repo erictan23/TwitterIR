@@ -1,2 +1,4 @@
+#Ignore VEVN files
+venv/
 # Ignore CSV Files
 .csv
